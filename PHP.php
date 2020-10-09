@@ -1,3 +1,1 @@
-<?php
-
-phpinfo();
+《html 下课咯》
